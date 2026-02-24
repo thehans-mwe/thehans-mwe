@@ -1,7 +1,7 @@
 # 🌟 Thehan | Full Stack Explorer & AI Enthusiast
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:ff758c,100:ff7eb3&height=200&section=header&text=HELLO%2C%20I'M%20THEHAN!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=200&section=header&text=HELLO%2C%20I'M%20Thehan!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -53,15 +53,15 @@ I love creating projects that are **interactive, useful, and fun**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thehan&show_icons=true&theme=radical&count_private=true&hide_border=false&title_color=ff7eb3&icon_color=ff758c&text_color=ffffff&bg_color=0,203a43,2c5364" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thehan&show_icons=true&theme=radical&count_private=true&hide_border=false&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000,333333,111111" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehan&theme=radical&hide_border=false&background=0,203a43,2c5364&stroke=ff758c&ring=ff7eb3&fire=ff9aa2&currStreakLabel=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehan&theme=radical&hide_border=false&background=000000,333333,111111&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehan&layout=compact&theme=radical&hide_border=false&title_color=ff7eb3&text_color=ffffff&bg_color=0,203a43,2c5364" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehan&layout=compact&theme=radical&hide_border=false&title_color=FFD700&text_color=ffffff&bg_color=000000,333333,111111" />
 </p>
 
 ---
@@ -79,9 +79,7 @@ I love creating projects that are **interactive, useful, and fun**.
 | Project | Description | Demo |
 |--------|------------|------|
 | **CarbonIQ** | AI-powered learning tool that adapts to your study habits and helps you learn smarter | [View](#) |
-| **CognitiveLoadAI** | Tracks and optimizes mental workload using AI to enhance productivity | [View](#) |
-| **Micro:bit Irrigation System** | Automated irrigation system using Micro:bit, sensors, and servo motors | [View](#) |
-| **CS Web Apps** | Fun JS-based apps including calculators, dashboards, and interactive tools | [View](#) |
+| **CognitiveLoadAI** | AI system that tracks and optimizes mental workload to improve productivity | [View](#) |
 
 ---
 
@@ -98,7 +96,6 @@ I love creating projects that are **interactive, useful, and fun**.
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -110,7 +107,5 @@ thehan/
 │
 ├── CarbonIQ/
 ├── CognitiveLoadAI/
-├── Microbit-Irrigation/
-├── CS-Web-Apps/
 ├── README.md
 └── projects/
