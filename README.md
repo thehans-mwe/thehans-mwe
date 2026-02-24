@@ -12,8 +12,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -52,21 +50,29 @@
 
 ## 📊 Skills
 
-<div align="center">
+```
+Web Development   ████████████████████████████████████████████░░░░░  90%
+JavaScript        ████████████████████████████████████████░░░░░░░░░  85%
+React             ██████████████████████████████████████░░░░░░░░░░░  80%
+Python & AI       ████████████████████████████████████░░░░░░░░░░░░░  75%
+Node.js           ██████████████████████████████████░░░░░░░░░░░░░░░  70%
+MongoDB           ████████████████████████████████░░░░░░░░░░░░░░░░░  65%
+Robotics & IoT    ██████████████████████████████░░░░░░░░░░░░░░░░░░░  60%
+```
 
-<img src="skills.svg" alt="Skills Chart" width="860"/>
-
-</div>
+> 🟡 Web Dev &nbsp;&nbsp; 🟠 JavaScript &nbsp;&nbsp; 🟢 React &nbsp;&nbsp; 🟣 Python & AI &nbsp;&nbsp; 🩷 Node.js &nbsp;&nbsp; 🟩 MongoDB &nbsp;&nbsp; 🔵 Robotics
 
 ---
 
 ## 🎯 2025 Learning Roadmap
 
-<div align="center">
-
-<img src="roadmap.svg" alt="2025 Learning Roadmap" width="860"/>
-
-</div>
+| Goal | Progress | Level |
+|:-----|:---------|:-----:|
+| 🎨 UX / UI Design | `████████████████████████████████████████░░░░░` | **85%** |
+| 🌐 Advanced Web Patterns | `██████████████████████████████████████░░░░░░░` | **80%** |
+| 📊 Data Visualization | `████████████████████████████████████░░░░░░░░░` | **75%** |
+| 🤖 AI / ML Models | `██████████████████████████████████░░░░░░░░░░░` | **70%** |
+| 🔧 IoT & Robotics | `████████████████████████████████░░░░░░░░░░░░░` | **65%** |
 
 ---
 
@@ -76,8 +82,8 @@
 |:--------|:------------|:------|:------:|
 | [**🤖 CarbonIQ**](https://github.com/thehan/CarbonIQ) | AI-powered adaptive learning tool that evolves with your study habits | `React` `Python` `AI/ML` | ![Active](https://img.shields.io/badge/Active-FFD700?style=flat-square&logoColor=black) |
 | [**🧠 CognitiveLoadAI**](https://github.com/thehan/CognitiveLoadAI) | Tracks & optimizes mental workload in real-time using AI | `Node.js` `Python` `MongoDB` | ![Active](https://img.shields.io/badge/Active-FFD700?style=flat-square&logoColor=black) |
-| [**🌱 Microbit Irrigation**](https://github.com/thehan/Microbit-Irrigation) | Smart automated irrigation system using sensors + servo motors | `Micro:bit` `Python` `IoT` | ![Building](https://img.shields.io/badge/Building-FF6B35?style=flat-square&logoColor=white) |
-| [**💻 CS Web Apps**](https://github.com/thehan/CS-Web-Apps) | Collection of interactive JS tools: calculators, dashboards & more | `JavaScript` `HTML` `CSS` | ![Active](https://img.shields.io/badge/Active-FFD700?style=flat-square&logoColor=black) |
+| [**🌱 Microbit Irrigation**](https://github.com/thehan/Microbit-Irrigation) | Smart automated irrigation using sensors + servo motors | `Micro:bit` `Python` `IoT` | ![Building](https://img.shields.io/badge/Building-FF6B35?style=flat-square&logoColor=white) |
+| [**💻 CS Web Apps**](https://github.com/thehan/CS-Web-Apps) | Interactive JS tools: calculators, dashboards & more | `JavaScript` `HTML` `CSS` | ![Active](https://img.shields.io/badge/Active-FFD700?style=flat-square&logoColor=black) |
 
 ---
 
