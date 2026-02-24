@@ -1,112 +1,97 @@
-# <div align="center">⚡ THEHAN ⚡</div>
+# 🌟 Thehan | Full Stack Explorer
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:ff758c,100:ff7eb3&height=200&section=header&text=HELLO%2C%20I'M%20THEHAN!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Python+Developer+in+Progress;Focused+on+Building+Real+Skill;Future+Open+Source+Contributor;Learning+Deeply+%7C+Building+Consistently;Leveling+Up+Every+Single+Day" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=thehans-mwe&label=Profile+Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/thehans-mwe?label=Followers&style=flat&color=58A6FF" />
-<img src="https://img.shields.io/github/stars/thehans-mwe?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=FFD700" />
-<img src="https://img.shields.io/github/commit-activity/m/thehans-mwe/thehans-mwe?style=flat&color=8A2BE2" />
-
-</div>
-
----
-
-# 🧠 About Me
-
-Hey — I’m Thehan.
-
-I’m currently mastering Python and building strong programming fundamentals from the ground up.
-
-I focus on:
-
-• Clean, readable code  
-• Strong logical thinking  
-• Deep understanding of core concepts  
-• Consistency over motivation  
-• Building real projects  
-
-I’m not chasing shortcuts. I’m building skill.
+<p align="center">
+  <a href="https://github.com/thehan">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thehan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/thehan">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/thehan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# ⚙️ Current Focus
+## 💫 About Me
 
-🐍 Python fundamentals  
-🧩 Problem solving  
-🔧 Git & version control  
-🏗 Project-based learning  
-📚 Software structure  
+Hey! I'm **Thehan**, a passionate coder, tech tinkerer, and creator of cool projects.  
+I love building **JavaScript, Python, and AI projects**, experimenting with robotics, and making things **interactive and fun**.  
 
----
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" />
-
-</div>
+✨ Curious mind  
+⚡ Loves efficient code  
+🎯 Focused on learning and building  
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thehans-mwe&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thehans-mwe&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,mongodb,git,github,vscode,figma" />
+</p>
 
 ---
 
-# 📈 Activity Graph
+## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thehans-mwe&theme=tokyo-night&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thehan&show_icons=true&theme=radical&count_private=true&hide_border=false&title_color=ff7eb3&icon_color=ff758c&text_color=ffffff&bg_color=0,203a43,2c5364" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehan&theme=radical&hide_border=false&background=0,203a43,2c5364&stroke=ff758c&ring=ff7eb3&fire=ff9aa2&currStreakLabel=ffffff" />
+</p>
 
-# 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-# 🚀 2026 Goals
-
-Short Term  
-• Build 5–10 Python projects  
-• Improve debugging  
-• Strengthen logic  
-
-Mid Term  
-• Contribute to open source  
-• Build automation tools  
-• Learn intermediate Python  
-
-Long Term  
-• Master problem solving  
-• Build scalable software  
-• Become highly skilled through discipline  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehan&layout=compact&theme=radical&hide_border=false&title_color=ff7eb3&text_color=ffffff&bg_color=0,203a43,2c5364" />
+</p>
 
 ---
 
-# 📌 Philosophy
+## 🐍 Contribution Snake
 
-Consistency compounds.  
-Skill compounds.  
-Progress compounds.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thehan/thehan/output/github-contribution-grid-snake.svg" />
+</p>
 
-Small daily improvements turn into serious ability.
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Demo |
+|--------|------------|------|
+| **Innovation ECA** | 10-week robotics & coding learning project | [View](#) |
+| **Micro:bit Irrigation System** | Automated irrigation using sensors & servo | [View](#) |
+| **CS Web Apps** | Fun JS apps, calculators, dashboards | [View](#) |
+
+---
+
+## 🎮 Fun Section
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" />
+</p>
+
+---
+
+## 📂 GitHub Portfolio
+
+```text
+thehan/
+│
+├── innovation-eca/
+├── microbit-irrigation/
+├── cs-web-apps/
+├── README.md
+└── projects/
+
+<p align="center"> <a href="https://github.com/thehan"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/thehan"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/thehan"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> </p> ```
