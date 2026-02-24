@@ -23,16 +23,16 @@
 
 ## 💫 About Me
 
-Hi! I'm **Thehan**, a full stack developer, AI hobbyist, and robotics enthusiast.  
-I love building **interactive applications**, experimenting with **AI and IoT**, and creating projects that are **both fun and educational**.  
+Hi! I'm **Thehan**, a full stack developer, AI enthusiast, and robotics hobbyist.  
+I love building **interactive apps**, experimenting with **AI and IoT**, and creating projects that are **fun, educational, and dynamic**.  
 
-- 🔭 Currently exploring **AI productivity tools**  
+- 🔭 Currently exploring **AI-powered productivity tools**  
 - 🌱 Learning **advanced JavaScript, Python ML, and Micro:bit robotics**  
-- 👯 Open to collaborating on **innovative AI, web, or IoT projects**  
-- 💬 Always up for discussing **tech, games, or productivity hacks**  
+- 👯 Open to collaborating on **AI, Web, or IoT projects**  
+- 💬 Always up for discussing **tech, gaming, or productivity hacks**  
 - ⚡ Passionate about **efficient code, interactive projects, and clean design**  
 
-✨ Fun fact: I combine **creativity and tech** to make learning and coding more engaging.  
+✨ Fun fact: I combine **creativity + tech** to make coding more engaging.  
 
 ---
 
@@ -57,11 +57,15 @@ I love building **interactive applications**, experimenting with **AI and IoT**,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehan&theme=tokyonight&hide_border=false&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehan&layout=compact&theme=tokyonight&hide_border=false&title_color=FFD700&text_color=ffffff&bg_color=000000" />
 </p>
 
+---
+
+## 📈 GitHub Contributions
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehan&layout=compact&theme=tokyonight&hide_border=false&title_color=FFD700&text_color=ffffff&bg_color=000000" />
+  <img src="https://ghchart.rshah.org/thehan" alt="Thehan's GitHub chart" width="600"/>
 </p>
 
 ---
@@ -96,6 +100,15 @@ I love building **interactive applications**, experimenting with **AI and IoT**,
 - IoT & Robotics: ![65%](https://progress-bar.dev/65/?title=IoT%20Robotics&color=FFD700)  
 - Data Visualization: ![75%](https://progress-bar.dev/75/?title=Data%20Viz&color=FFD700)  
 - UX/UI Design: ![85%](https://progress-bar.dev/85/?title=UX%2FUI&color=FFD700)  
+
+---
+
+## 📊 Project Progress Charts
+
+**CarbonIQ:** ![Progress](https://progress-bar.dev/90/?title=CarbonIQ&color=FFD700)  
+**CognitiveLoadAI:** ![Progress](https://progress-bar.dev/75/?title=CognitiveLoadAI&color=FFD700)  
+**Micro:bit Irrigation:** ![Progress](https://progress-bar.dev/65/?title=Microbit%20Irrigation&color=FFD700)  
+**CS Web Apps:** ![Progress](https://progress-bar.dev/80/?title=CS%20Web%20Apps&color=FFD700)  
 
 ---
 
