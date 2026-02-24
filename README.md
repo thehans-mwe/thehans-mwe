@@ -122,7 +122,7 @@ const thehan = {
     <td width="50%">
       <h3 align="center">🤖 CarbonIQ</h3>
       <div align="center">
-        <a href="https://github.com/thehan/CarbonIQ">
+        <a href="https://github.com/thehans-mwe/CarbonIQ">
           <img src="https://img.shields.io/badge/View%20Repo-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </div>
@@ -138,7 +138,7 @@ const thehan = {
     <td width="50%">
       <h3 align="center">🧠 CognitiveLoadAI</h3>
       <div align="center">
-        <a href="https://github.com/thehan/CognitiveLoadAI">
+        <a href="https://github.com/thehans-mwe/CognitiveLoadAI">
           <img src="https://img.shields.io/badge/View%20Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
@@ -150,40 +150,6 @@ const thehan = {
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
       <p align="center"><img src="https://img.shields.io/badge/Status-Active-FF6B35?style=flat-square"/></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌱 Microbit Irrigation</h3>
-      <div align="center">
-        <a href="https://github.com/thehan/Microbit-Irrigation">
-          <img src="https://img.shields.io/badge/View%20Repo-96fbc4?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">Fully automated smart irrigation system built with Micro:bit, moisture sensors and servo motors.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Micro%3Abit-00ED00?style=flat-square&logo=microbit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IoT-0078D4?style=flat-square&logo=raspberrypi&logoColor=white"/>
-      </p>
-      <p align="center"><img src="https://img.shields.io/badge/Status-Building-96fbc4?style=flat-square&labelColor=111"/></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💻 CS Web Apps</h3>
-      <div align="center">
-        <a href="https://github.com/thehan/CS-Web-Apps">
-          <img src="https://img.shields.io/badge/View%20Repo-a78bfa?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">Collection of fun JS-based interactive apps including calculators, dashboards and creative tools.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </p>
-      <p align="center"><img src="https://img.shields.io/badge/Status-Active-a78bfa?style=flat-square"/></p>
     </td>
   </tr>
 </table>
