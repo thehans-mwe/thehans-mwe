@@ -41,7 +41,7 @@ const thehan = {
 
 ---
 
-## 🌈 What I Do
+## 💻 What I Do
 
 <div align="center">
 
@@ -127,7 +127,7 @@ const thehan = {
         </a>
       </div>
       <br/>
-      <p align="center">AI-powered adaptive learning tool that evolves with your study habits for smarter, faster learning.</p>
+      <p align="center">An AI that calculates the amount of carbon emissions you're giving off based on your actions. <a href="https://carboniq-six.vercel.app">Live Demo →</a></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -143,7 +143,7 @@ const thehan = {
         </a>
       </div>
       <br/>
-      <p align="center">Tracks and optimizes your mental workload in real-time using AI to boost productivity and focus.</p>
+      <p align="center">Analyzes educational text to detect cognitive overload in students. Gives a score, feature breakdown & study recommendations. <a href="https://cognitive-load-ai.vercel.app">Live Demo →</a></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
