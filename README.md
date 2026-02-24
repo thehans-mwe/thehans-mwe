@@ -23,16 +23,16 @@
 
 ## 💫 About Me
 
-Hi! I'm **Thehan**, a curious coder, tech explorer, and AI hobbyist.  
-I love creating projects that are **interactive, useful, and fun**.  
+Hi! I'm **Thehan**, a full stack developer, AI hobbyist, and robotics enthusiast.  
+I love building **interactive applications**, experimenting with **AI and IoT**, and creating projects that are **both fun and educational**.  
 
-- 🔭 Currently exploring **AI-powered tools and productivity systems**  
-- 🌱 Learning **advanced JavaScript, Python ML, and robotics**  
-- 👯 Open to collaborating on **innovative AI or Web apps**  
+- 🔭 Currently exploring **AI productivity tools**  
+- 🌱 Learning **advanced JavaScript, Python ML, and Micro:bit robotics**  
+- 👯 Open to collaborating on **innovative AI, web, or IoT projects**  
 - 💬 Always up for discussing **tech, games, or productivity hacks**  
-- ⚡ Passionate about **efficient code, clean design, and learning fast**  
+- ⚡ Passionate about **efficient code, interactive projects, and clean design**  
 
-✨ Fun fact: I love **mixing tech with creativity**—think AI + gaming + productivity.  
+✨ Fun fact: I combine **creativity and tech** to make learning and coding more engaging.  
 
 ---
 
@@ -42,35 +42,39 @@ I love creating projects that are **interactive, useful, and fun**.
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode,figma,mongodb" />
 </p>
 
-- **Languages:** JavaScript, Python, HTML, CSS  
-- **Frameworks:** React, Node.js, Express  
-- **Databases:** MongoDB  
-- **Tools:** Git, VS Code, Figma  
-- **Other:** Micro:bit, Robotics, IoT experimentation  
+**Languages:** JavaScript, Python, HTML, CSS  
+**Frameworks:** React, Node.js, Express  
+**Databases:** MongoDB  
+**Tools:** Git, VS Code, Figma  
+**Other:** Micro:bit, Robotics, IoT experimentation  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thehan&show_icons=true&theme=radical&count_private=true&hide_border=false&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000,333333,111111" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thehan&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehan&theme=radical&hide_border=false&background=000000,333333,111111&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehan&theme=tokyonight&hide_border=false&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehan&layout=compact&theme=radical&hide_border=false&title_color=FFD700&text_color=ffffff&bg_color=000000,333333,111111" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehan&layout=compact&theme=tokyonight&hide_border=false&title_color=FFD700&text_color=ffffff&bg_color=000000" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Skill Levels (Charts)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thehan/thehan/output/github-contribution-grid-snake.svg" />
-</p>
+**Web Development:** ![90%](https://progress-bar.dev/90/?title=Web%20Dev&width=300&color=FFD700)  
+**JavaScript:** ![85%](https://progress-bar.dev/85/?title=JavaScript&width=300&color=FFD700)  
+**Python & AI:** ![75%](https://progress-bar.dev/75/?title=Python%20AI&width=300&color=FFD700)  
+**React:** ![80%](https://progress-bar.dev/80/?title=React&width=300&color=FFD700)  
+**Node.js:** ![70%](https://progress-bar.dev/70/?title=Node.js&width=300&color=FFD700)  
+**MongoDB:** ![65%](https://progress-bar.dev/65/?title=MongoDB&width=300&color=FFD700)  
+**Robotics & IoT:** ![60%](https://progress-bar.dev/60/?title=Robotics%20IoT&width=300&color=FFD700)  
 
 ---
 
@@ -78,17 +82,20 @@ I love creating projects that are **interactive, useful, and fun**.
 
 | Project | Description | Demo |
 |--------|------------|------|
-| **CarbonIQ** | AI-powered learning tool that adapts to your study habits and helps you learn smarter | [View](#) |
-| **CognitiveLoadAI** | AI system that tracks and optimizes mental workload to improve productivity | [View](#) |
+| **CarbonIQ** | AI-powered learning tool that adapts to your study habits for smarter studying | [View](#) |
+| **CognitiveLoadAI** | Tracks and optimizes mental workload using AI to improve productivity | [View](#) |
+| **Micro:bit Irrigation System** | Automated irrigation system using Micro:bit, sensors, and servo motors | [View](#) |
+| **CS Web Apps** | Fun JS-based apps including calculators, dashboards, and interactive tools | [View](#) |
 
 ---
 
-## 🎯 Current Learning Goals
+## 🎯 Current Learning Goals (Progress)
 
-- ⚡ Dive deeper into **Machine Learning & Neural Networks**  
-- 🌐 Build more **full-stack AI applications**  
-- 🤖 Explore **IoT + Microcontroller projects**  
-- 📈 Improve **data visualization & UX design skills**  
+- Web Dev Advanced Patterns: ![80%](https://progress-bar.dev/80/?title=Web%20Advanced&color=FFD700)  
+- AI / ML Models: ![70%](https://progress-bar.dev/70/?title=AI%2FML&color=FFD700)  
+- IoT & Robotics: ![65%](https://progress-bar.dev/65/?title=IoT%20Robotics&color=FFD700)  
+- Data Visualization: ![75%](https://progress-bar.dev/75/?title=Data%20Viz&color=FFD700)  
+- UX/UI Design: ![85%](https://progress-bar.dev/85/?title=UX%2FUI&color=FFD700)  
 
 ---
 
@@ -96,6 +103,10 @@ I love creating projects that are **interactive, useful, and fun**.
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  <span style="font-size:16px; color:#FFD700; font-weight:bold;">Interactive projects make coding fun and creative!</span>
 </p>
 
 ---
@@ -107,5 +118,7 @@ thehan/
 │
 ├── CarbonIQ/
 ├── CognitiveLoadAI/
+├── Microbit-Irrigation/
+├── CS-Web-Apps/
 ├── README.md
 └── projects/
