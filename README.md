@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:051a00,60:0a3500,100:000000&height=280&section=header&text=Thehan&fontSize=90&fontColor=ffffff&fontFamily=Pacifico&animation=twinkling&fontAlignY=42&desc=full+stack+dev+%C2%B7+ai+builder+%C2%B7+robotics+nerd&descSize=18&descColor=39d353&descAlignY=62&stroke=39d353&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,20:134e1f,50:39d353,80:134e1f,100:0d1117&height=280&section=header&text=Thehan&fontSize=90&fontColor=ffffff&fontFamily=Pacifico&animation=twinkling&fontAlignY=42&desc=full+stack+dev+%C2%B7+ai+builder+%C2%B7+robotics+nerd&descSize=18&descColor=ffffff&descAlignY=62&stroke=39d353&strokeWidth=1)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=500&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%3E+building+the+future+with+code+%2B+AI+%2B+circuits;%3E+always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -188,6 +188,6 @@ const thehan = {
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:051a00,60:0a3500,100:000000&height=120&section=footer&text=%24+exit+%3A%29&fontSize=20&fontColor=39d353&fontFamily=Pacifico&animation=twinkling&fontAlignY=68&stroke=39d353&strokeWidth=1)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:134e1f,60:39d353,100:0d1117&height=120&section=footer&text=%24+exit+%3A%29&fontSize=20&fontColor=ffffff&fontFamily=Pacifico&animation=twinkling&fontAlignY=68&stroke=39d353&strokeWidth=1)
 
 </div>
