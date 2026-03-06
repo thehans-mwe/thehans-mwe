@@ -4,15 +4,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,20:134e1f,50:39d353,80:134e1f,100:0d1117&height=280&section=header&text=Thehan&fontSize=90&fontColor=ffffff&fontFamily=Pacifico&animation=twinkling&fontAlignY=42&desc=full+stack+dev+%C2%B7+ai+builder+%C2%B7+robotics+nerd&descSize=18&descColor=ffffff&descAlignY=62&stroke=39d353&strokeWidth=1)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=500&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%3E+building+the+future+with+code+%2B+AI+%2B+circuits;%3E+always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=39D353&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=%F0%9F%92%BB+full+stack+dev+%7C+%F0%9F%A4%96+ai+builder+%7C+%F0%9F%94%A7+robotics+nerd;%F0%9F%9A%80+shipping+code+that+makes+a+difference;%E2%9A%A1+react+%C2%B7+node+%C2%B7+python+%C2%B7+tensorflow+%C2%B7+iot;%F0%9F%8C%B1+open+source+advocate+%26+lifelong+learner)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/thehan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/thehans-mawella-0392183a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://twitter.com/thehan"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
-<a href="https://www.instagram.com/thehan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/its_thehan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/thehans-mwe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="mailto:thehan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
@@ -40,13 +40,16 @@
 <tr><td>
 
 ```js
-const thehan = {
-  role:      "Full Stack Developer",
-  code:      ["JavaScript", "Python", "HTML", "CSS"],
-  tools:     ["React", "Node.js", "MongoDB", "Streamlit"],
-  interests: ["AI/ML", "Robotics", "IoT", "Open Source"],
-  motto:     "Ship fast, learn faster 🚀"
-};
+class Thehan {
+  constructor() {
+    this.role      = "Full Stack Developer";
+    this.code      = ["JavaScript", "Python", "HTML", "CSS"];
+    this.frameworks = ["React", "Node.js", "MongoDB", "Streamlit"];
+    this.passions  = ["AI/ML", "Robotics", "IoT", "Open Source"];
+    this.motto     = "Ship fast, learn faster 🚀";
+  }
+  work() { return "Building cool stuff every day"; }
+}
 ```
 
 </td><td>
@@ -92,11 +95,13 @@ const thehan = {
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![micro:bit](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white)
 
-**`DESIGN`**
+**`DESIGN & TOOLS`**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -184,7 +189,7 @@ const thehan = {
 
 <div align="center">
 
-**💬 _"Code is like humor. When you have to explain it, it's bad."_**
+**💬 _"First, solve the problem. Then, write the code."_ — John Johnson**
 
 <br/>
 
