@@ -189,6 +189,8 @@ class Thehan {
 
 <div align="center">
 
+© 2026 Thehan Mawella. All rights reserved.
+
 **💬 _"First, solve the problem. Then, write the code."_ — John Johnson**
 
 <br/>
